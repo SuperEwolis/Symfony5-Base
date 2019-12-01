@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/SuperEwolis/Symfony5-Base.svg?style=svg&circle-token=03425d5d38fa7f591c8ee542afaab8851f98aedb)](https://circleci.com/gh/SuperEwolis/Symfony5-Base) [![Build Status](https://travis-ci.com/SuperEwolis/Symfony5-Base.svg?token=gzNTAmE5FFhpfun2gRhq&branch=master)](https://travis-ci.com/SuperEwolis/Symfony5-Base)
+
 ### Le repository
 Basé sur `Symfony5`, ce projet contient toutes les dépendances nécessaires pour le bon fonctionnement des projets web.
 
@@ -40,7 +42,6 @@ L'intrégralité des projets en développements seront dans le dossier suivant `
 rsync -av ./ user@server:~/dev/monProjet --include=public/build --include=public/.htaccess --exclude-from=.gitignore 
 ```
 
-* Allez dans le repertoire courant du projet et créez le .env en y inscrivant le même contenue que celui en local
 * Toujours dans le repertoire courant du projet, exécutez cette commande pour installer les dépendances
 
 ```
