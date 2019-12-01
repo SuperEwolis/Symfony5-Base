@@ -14,7 +14,7 @@ Basé sur `Symfony5`, ce projet contient toutes les dépendances nécessaires po
 * Ouvrez votre terminal
 
 ```
-git clone https://github.com/SuperEwolis/symfony5-base.git
+git clone https://github.com/SuperEwolis/Symfony5-Base.git
 ```
 
 * Renomez le et allez dans le repertoire courant du projet, puis installer les dépendances nécessaires
